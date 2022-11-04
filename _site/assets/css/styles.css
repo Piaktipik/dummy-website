@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <link rel="stylesheet" href="/assets/css/styles.css">
+    </head>
+    <body>
+        <nav>
+    
+    <a href="/" class="navbar-item">Home</a>
+    
+    <a href="/about" class="navbar-item">About Me</a>
+    
+    <a href="/publications" class="navbar-item">Publications</a>
+    
+    <a href="/posts" class="navbar-item">Posts</a>
+    
+</nav>
+        <hr>
+        @import "main";
+    </body>
+</html>
